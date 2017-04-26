@@ -1,0 +1,9 @@
+.cardBook {
+    width: 20%;
+    float: left;
+}
+
+.card {
+    padding: 2vh;
+    height: 450px;
+}
